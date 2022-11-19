@@ -1,6 +1,16 @@
-# Final Year Project
-Bsc (Eng) Electrical and Computer Engineering, University of Cape Town `Passed with a Distinction`
-## Project Title 
+# 5G final project 
+Enable Advanced QoS-Aware Network Slicing in 5G Networks for Slice-Based Media Use Cases 
+Team members:
+Bhavya Sri Kommalapati [Team Lead]
+Shruthi Thirunagari, 
+Vineeth Pasumala, 
+Rakesh Panduga, 
+Nawaz Arsalan
+Tirumalesh Areti,
+Shiva Prasad  Aare,
+Nayana Gugulothu, 
+Akhil Kurella, 
+Yashwanth Palsu
 
 Design of An Algorithm for 5G Sliced Networks
 
